@@ -9,7 +9,7 @@
 
 ## Demo of Smart Robot Vacuum
 
-![](SmartRobotVacuum.gif)
+![](SmartRoboVacuum.gif)
 
 
 ## Clean Sweep Robot Configuration
